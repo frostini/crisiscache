@@ -1,28 +1,12 @@
-== README
+CrisisCache
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Real-time crisis logging, location/incident, for first responders with heat map clusters to identify problematic locations and so mission control can dispatch resources most appropriately. 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Won 1st Place-- Best Public Safety Collaboration Challenge App- (Dec 2014)
+AT&T Mobile App Hackathon Bay Area - Public Safety in collaboration with the Department of Homeland Security.
+
+Collaborators:
+
+Murat Gocmen- Developer
+Marlon Frausto - Developer

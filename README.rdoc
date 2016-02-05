@@ -8,5 +8,5 @@ AT&T Mobile App Hackathon Bay Area - Public Safety in collaboration with the Dep
 
 Collaborators:
 
-Murat Gocmen- Developer
 Marlon Frausto - Developer
+Murat Gocmen- Developer
